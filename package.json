@@ -8,7 +8,7 @@
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.4"
   },
-  "homepage": "https://jakerjohnson.github.io/todos-1",
+  "homepage": "https://jakerjohnson94.github.io/todos-1",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
